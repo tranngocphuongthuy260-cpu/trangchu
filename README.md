@@ -1,1 +1,24 @@
-# trangchu
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trần Ngọc Phương Thùy - Trang chủ</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="main-box">
+        <h1>Xin chào tôi là Trần Ngọc Phương Thùy </h1>
+        <a href="https://tranngocphuongthuy260-cpu.github.io/h-c-vui-nh-n/" target="_blank">
+            <button>Hồ Cá</button>
+        </a>
+        <a href="https://tranngocphuongthuy260-cpu.github.io/CV/" target="_blank">
+            <button>CV</button>
+        </a>
+    </div>
+    <footer>
+        © 2025 Trần Ngọc Phương Thùy  - Designed by Thùy <br>
+        <span class="quote">"Only in the grip of winter do people truly appreciate the warmth of flames"</span>
+    </footer>
+</body>
+</html>
